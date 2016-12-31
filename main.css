@@ -151,7 +151,13 @@ body {
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
-
+.about-me{
+    margin-bottom: 30px;
+    margin-top: 20px
+}
+.divider{
+    margin: 30px
+}
 /* Center align the text within the three columns below the carousel */
 .marketing .col-lg-4 {
   margin-bottom: 20px;
@@ -219,4 +225,8 @@ body {
   .featurette-heading {
     margin-top: 120px;
   }
+}
+.col-centered{
+float: none;
+margin: 0 auto;
 }
